@@ -1,5 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wooseong's git ✨&fontSize=90" />
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=AFD2E4&height=120&section=header&text=Wooseong's git ✨&fontSize=20&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=0)
 <div align="center">
 
 # Wooseong's git ✨
