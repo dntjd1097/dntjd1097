@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=AFD2E4&height=120&section=header&text=%20&fontSize=20&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=0)
 # Wooseong's git ✨
 
@@ -18,3 +19,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd1097&exclude_repo=Dinosaur-Adventure)](https://github.com/anuraghazra/github-readme-stats)
+</div>
