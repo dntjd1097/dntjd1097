@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=858f9f&height=300&section=header&text=Wooseong's%20git%20✨&fontSize=90&animation=fadeIn&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=858f9f&height=300&section=header&text=WooSeong%20Jung&fontSize=90&animation=fadeIn&fontColor=000000)
   
 ![dntjd1097's github stats](https://github-readme-stats.vercel.app/api?username=dntjd1097&show_icons=true&theme=chartreuse-dark)
 [![dntjd1097's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd1097&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=chartreuse-dark)](https://github.com/dntjd1097)
