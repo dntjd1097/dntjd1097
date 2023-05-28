@@ -1,8 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Wooseong's%20git%20✨&fontSize=90" />
 <div align="center">
-
-# Wooseong's git ✨
   
 ![dntjd1097's github stats](https://github-readme-stats.vercel.app/api?username=dntjd1097&show_icons=true)
 [![dntjd1097's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd1097&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dntjd1097)
