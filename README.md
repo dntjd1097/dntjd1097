@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=AFD2E4&height=120&section=header&text=%20&fontSize=20&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=0)
-
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=858f9f&height=300&section=header&text=Wooseong's%20git%20✨&fontSize=90&animation=fadeIn&fontColor=000000)
