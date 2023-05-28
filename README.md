@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=AFD2E4&height=120&section=header&text=%20&fontSize=20&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=0)
-# Wooseong's git ✨
 <div align="center">
+# Wooseong's git ✨
+
 
 ![dntjd1097's github stats](https://github-readme-stats.vercel.app/api?username=dntjd1097&show_icons=true)
 [![dntjd1097's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd1097&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dntjd1097)
