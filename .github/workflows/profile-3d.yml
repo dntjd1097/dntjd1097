@@ -17,8 +17,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+        
           git config user.name 'dntjd1097'
           git config user.email 'dntjd1097@gmail.com'
+          git remote -v
           git add -A .
           git commit -m "refresh"
           git push
