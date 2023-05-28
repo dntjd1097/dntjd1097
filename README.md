@@ -4,7 +4,7 @@
 
 # Wooseong's git ✨
 
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![dntjd1097's github stats](https://github-readme-stats.vercel.app/api?username=dntjd1097&show_icons=true)
 [![dntjd1097's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjd1097&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dntjd1097)
 
@@ -13,7 +13,7 @@
 [![dntjd1097's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dntjd1097&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjd1097)](https://solved.ac/dntjd1097/) ![dntjd1097's github stats](https://github-readme-stats.vercel.app/api?username=dntjd1097&show_icons=true)
 
